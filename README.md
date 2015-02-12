@@ -13,3 +13,8 @@ Twitter : iojs_bn
 অনুবাদ দলের অংশ হতে ইচ্ছুক হলে ,  অনুবাদক  শিরোনামে  এখানে একটি নতুন টিকেট তৈরি করুন . আপনাকে ধন্যবাদ!
 অনুবাদ টিম সদস্য
 মাহফুজ (@mahfuz05)
+
+
+## Licence
+
+[MIT](https://tldrlegal.com/license/mit-license)
